@@ -1,0 +1,21 @@
+{
+  "name": "openai-agent",
+  "version": "1.0.0",
+  "description": "An agent that uses OpenAI's Node.js SDK and integrates it with custom functions to enhance its capabilities.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "openai",
+    "agent",
+    "node.js",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^0.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
